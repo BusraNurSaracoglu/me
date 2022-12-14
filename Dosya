@@ -1,0 +1,24 @@
+https://medium.com/@ageitgey/build-a-face-recognition-system-for-60-with-the-new-nvidia-jetson-nano-2gb-and-python-46edbddd7264
+ 
+jetson nano python kurulum : https://automaticaddison.com/how-to-write-a-python-program-for-nvidia-jetson-nano/
+aynı zamanda virtual enviroment de kurabiliyoruz.
+ 
+ubuntu kurulum ve upgrade  ----------------»»»»»»»
+https://qengineering.eu/install-ubuntu-20.04-on-jetson-nano.html
+ 
+ 
+ 
+»»»» Burada pixhak cube orange'ı rasberry pi ile birleştirmiş. ve gps verilerini çekmiş.
+https://www.youtube.com/watch?v=DGAB34fJQFc
+https://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html
+ 
+ 
+»»»» Mavi rengi bulup onun gpsine giden bir ika projesi
+https://github.com/maggielovedd/fyp-rescue-robot
+ 
+ 
+ 
+»»»»Jetson Nano'ya Python kurulumu - silinmesi - güncellenmesi
+https://automaticaddison.com/how-to-write-a-python-program-for-nvidia-jetson-nano/
+»» aynı zamanda pip kurulum, virtual enviroment kurulum gibi durumları barındırıyor.
+ 
